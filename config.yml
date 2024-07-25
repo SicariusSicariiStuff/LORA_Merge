@@ -1,0 +1,5 @@
+base_model_name: "path to your base model goes here"
+adapter_model_name: "path to your LORA adapter goes here"
+max_shard_size: "3GB"
+merged_path: "./merged"
+
